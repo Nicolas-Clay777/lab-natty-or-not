@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Jalen Hurts: Da Superação ao Título do Super Bowl
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 6 páginas conta um pouco da jornada do quarterback Jalen Hurts para se tornar o campeão do Super Bowl. 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Grok](https://x.com/i/grok)** para criar a arte visual do e-book;
+- Ferramenta [canva](www.canva.com) para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Grok" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Canva, por ser uma boa de ferramenta edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo envolvente sobre a vida de um jovem jogador de futebol americano e suas conquistas, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGfZHu_-Jc/udpO1TLJxjbWbUO-ICTUgg/view?utm_content=DAGfZHu_-Jc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h909af1ee5b)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos, sendo criativo e usando as IAs, sempre vai vim um bom resultado.
